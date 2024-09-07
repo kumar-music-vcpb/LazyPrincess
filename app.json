@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/LazyDeveloperr/LazyPrincess",
-    "repository": "https://github.com/LazyDeveloperr/LazyPrincess",
+    "website": "https://github.com/kumar-music-vcpb/LazyPrincess.git",
+    "repository": "https://github.com/kumar-music-vcpb/LazyPrincess",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
